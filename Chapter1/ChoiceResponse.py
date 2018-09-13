@@ -1,9 +1,7 @@
 import random
 
 responses = {
-    "what's your name?" : ["my name is EchoBot","they call me EchoBot",
-        "the name's Bot, Echo Bot"
-    ]
+    "what's your name?" : ["my name is EchoBot","they call me EchoBot","the name's Bot, Echo Bot"]
 }
 
 default = ["sorry!I'd not understand you","Soory! I'm small brain"]
