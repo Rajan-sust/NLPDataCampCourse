@@ -4,7 +4,7 @@ responses = {
     "what's your name?" : ["my name is EchoBot","they call me EchoBot","the name's Bot, Echo Bot"]
 }
 
-default = ["sorry!I'd not understand you","Soory! I'm small brain"]
+default = ["sorry!I'd not understand you","Sorry! I'm small brain"]
 
 def respond(msg) :
     if msg in responses :
